@@ -3,7 +3,6 @@ Freenove Complete Starter Kit for Raspberry Pi C/C++ [2024]
 
 
 Features
-
 • Fully reworked C/C++ source code
 
 • Restructured and optimized for better performance
