@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/status-active-green" alt="status"> <img src="https://img.shields.io/badge/license-AGPL%20v3-blue" alt="license"> <img src="https://img.shields.io/badge/language-C%2FC++-yellow" alt="language"> <img src="https://img.shields.io/badge/platform-Raspberry%20Pi-red" alt="platform">
 
 ## 📖 Introduction
-<p>This project is a complete rework of the C/C++ codebase for the Freenove Complete Starter Kit. It is aimed at Raspberry Pi users who want to easily set up projects using clean, well-structured, and optimized code.</p>
+> This project is a complete rework of the C/C++ codebase for the Freenove Complete Starter Kit. It is aimed at Raspberry Pi users who want to easily set up projects using clean, well-structured, and optimized code.
 
 ## 🌟 Key Features
 <ul>
@@ -33,4 +33,4 @@
 </ul>
 
 ## 📝 Licence
-<p>This project is licensed under the AGPL-3.0 License.</p>
+> This project is licensed under the AGPL-3.0 License.
