@@ -15,7 +15,7 @@
 </ul>
 
 ## ❓ Why This Kit?
-<p>The Freenove Starter Kit is widely used by Raspberry Pi beginners and developers for learning and prototyping. However, the code provided in older versions was often messy and hard to follow. This repository provides an updated codebase that is both robust and simple to use, making it easier for anyone to get started with Raspberry Pi projects.</p>
+<p>The Freenove Complete Starter Kit is widely used by Raspberry Pi beginners and developers for learning and prototyping. However, the code provided in older versions was often messy and hard to follow. This repository provides an updated codebase that is both robust and simple to use, making it easier for anyone to get started with Raspberry Pi projects.</p>
 
 ## 🛠️ Usage
 <p>Follow the instructions in the Freenove official tutorials to set up your environment and begin using the provided code. All the projects have been tested and optimized for easy integration.</p>
