@@ -27,6 +27,7 @@
 
 ## 📚 Resources
 <ul>
+  <li>🗂️ <a href="https://github.com/josua/Freenove-Complete-Starter-Kit-for-Raspberry-Pi-2024-">Project Repository</a></li>
   <li>🔗 <a href="https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Raspberry_Pi">Freenove Official Repository</a></li>
   <li>🌐 <a href="https://www.freenove.com/">Freenove Official Website</a></li>
   <li>📖 <a href="https://www.raspberrypi.org/documentation/">Raspberry Pi Documentation</a></li>
